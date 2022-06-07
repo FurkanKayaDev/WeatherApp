@@ -3,7 +3,6 @@
 ## Tools
 * React
 * React Native
-* Redux Toolkit
 * Axios
 
 ## Weather App
